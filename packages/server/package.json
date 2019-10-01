@@ -109,7 +109,7 @@
     "p-queue": "6.1.0",
     "parse-domain": "2.0.0",
     "pumpify": "1.5.1",
-    "ramda": "0.24.1",
+    "ramda": "0.26.1",
     "randomstring": "1.1.5",
     "request": "2.88.0",
     "request-promise": "4.2.4",
